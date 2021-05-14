@@ -5,6 +5,6 @@
 ![alt text](https://github.com/elyda66/Desafio-Css/blob/master/Day%201/day1.png "Tela da PokeDex")
 
 <p aling = "center">
-  <img width = "400" heigth = "400" rsc = "day1.png">
+  <img aling = "center" rsc = "day1.png">
 </p>
 
