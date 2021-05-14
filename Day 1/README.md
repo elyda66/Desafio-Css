@@ -2,4 +2,4 @@
   
 <p>Primeiro dia do desafio Css Aprendi um pouco com do Css com Among Us<p/>
   
-![alt text]( "Tela da PokeDex")
+![alt text]( https://github.com/elyda66/Desafio-Css/tree/master/Day%201/day1.png "Tela da PokeDex")
